@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld2</string>
+    <string name="txt1">Hello World!</string>
+    <string name="txt2">2</string>
+</resources>
